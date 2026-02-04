@@ -48,13 +48,13 @@ class UserCard extends React.Component {
 
             <div className="social-icons">
 
-              <a href="#" className="social-btn" onClick={(e) => e.preventDefault()} aria-label="Telegram">
+              <a href="/" className="social-btn" onClick={(e) => e.preventDefault()} aria-label="Telegram">
                 <FaTelegramPlane />
               </a>
-              <a href="#" className="social-btn" onClick={(e) => e.preventDefault()} aria-label="Instagram">
+              <a href="/" className="social-btn" onClick={(e) => e.preventDefault()} aria-label="Instagram">
                 <FaInstagram />
               </a>
-              <a href="#" className="social-btn" onClick={(e) => e.preventDefault()} aria-label="LinkedIn">
+              <a href="/" className="social-btn" onClick={(e) => e.preventDefault()} aria-label="LinkedIn">
                 <FaLinkedin />
               </a>
             </div>
